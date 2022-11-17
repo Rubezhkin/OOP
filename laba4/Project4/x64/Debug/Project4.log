@@ -1,0 +1,3 @@
+﻿  Money.cpp
+D:\учеба\ООП\laba4\Project4\Money.cpp(30,10): warning C4244: /=: преобразование "double" в "int", возможна потеря данных
+  Project4.vcxproj -> D:\учеба\ООП\laba4\x64\Debug\Project4.exe

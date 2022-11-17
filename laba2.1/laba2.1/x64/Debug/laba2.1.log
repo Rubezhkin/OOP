@@ -1,0 +1,4 @@
+﻿  Money.cpp
+D:\учеба\ООП\laba2.1\laba2.1\Money.cpp(44,33): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+D:\учеба\ООП\laba2.1\laba2.1\Money.cpp(52,33): warning C4244: =: преобразование "double" в "long", возможна потеря данных
+  laba2.1.vcxproj -> D:\учеба\ООП\laba2.1\x64\Debug\laba2.1.exe
