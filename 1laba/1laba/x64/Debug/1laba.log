@@ -1,0 +1,3 @@
+﻿  Source.cpp
+D:\учеба\ООП\1laba\1laba\Source.cpp(7,1): warning C4326: возвращаемый тип "main" должен быть "int", а не "void"
+  1laba.vcxproj -> D:\учеба\ООП\1laba\x64\Debug\1laba.exe
